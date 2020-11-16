@@ -1,0 +1,13 @@
+C:\Users\kingwalter\OneDrive\Desktop\The room of keys\The room of keys\The room of keys\bin\Debug\netcoreapp3.1\The room of keys.exe
+C:\Users\kingwalter\OneDrive\Desktop\The room of keys\The room of keys\The room of keys\bin\Debug\netcoreapp3.1\The room of keys.deps.json
+C:\Users\kingwalter\OneDrive\Desktop\The room of keys\The room of keys\The room of keys\bin\Debug\netcoreapp3.1\The room of keys.runtimeconfig.json
+C:\Users\kingwalter\OneDrive\Desktop\The room of keys\The room of keys\The room of keys\bin\Debug\netcoreapp3.1\The room of keys.runtimeconfig.dev.json
+C:\Users\kingwalter\OneDrive\Desktop\The room of keys\The room of keys\The room of keys\bin\Debug\netcoreapp3.1\The room of keys.dll
+C:\Users\kingwalter\OneDrive\Desktop\The room of keys\The room of keys\The room of keys\bin\Debug\netcoreapp3.1\The room of keys.pdb
+C:\Users\kingwalter\OneDrive\Desktop\The room of keys\The room of keys\The room of keys\obj\Debug\netcoreapp3.1\The room of keys.csprojAssemblyReference.cache
+C:\Users\kingwalter\OneDrive\Desktop\The room of keys\The room of keys\The room of keys\obj\Debug\netcoreapp3.1\The room of keys.AssemblyInfoInputs.cache
+C:\Users\kingwalter\OneDrive\Desktop\The room of keys\The room of keys\The room of keys\obj\Debug\netcoreapp3.1\The room of keys.AssemblyInfo.cs
+C:\Users\kingwalter\OneDrive\Desktop\The room of keys\The room of keys\The room of keys\obj\Debug\netcoreapp3.1\The room of keys.csproj.CoreCompileInputs.cache
+C:\Users\kingwalter\OneDrive\Desktop\The room of keys\The room of keys\The room of keys\obj\Debug\netcoreapp3.1\The room of keys.dll
+C:\Users\kingwalter\OneDrive\Desktop\The room of keys\The room of keys\The room of keys\obj\Debug\netcoreapp3.1\The room of keys.pdb
+C:\Users\kingwalter\OneDrive\Desktop\The room of keys\The room of keys\The room of keys\obj\Debug\netcoreapp3.1\The room of keys.genruntimeconfig.cache
