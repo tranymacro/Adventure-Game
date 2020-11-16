@@ -11,19 +11,19 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Welcome to my game
+## This is a simple text base adventure made for for fun
+### This game does have horror element so be warned
 
-- Bulleted
-- List
+- Horror
+- Text Base Adventure
 
-1. Numbered
-2. List
+1. Short 5-6 mins (Will be bigger soon)
+2. In process
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[https://github.com/tranymacro](My url)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
